@@ -44,13 +44,13 @@
 ## <a name="stoicism"></a> Stoicism
 
 #### <a name="epictetus"></a> Epictetus 
-- _Enchiridion_, Chapter 20
+- _Enchiridion_, Chapter 20  
   "Remember that it is not he who reviles or strikes you who insults you, but your opinion that these things are insulting. So when anyone makes you angry, know that it is your own thought that has angered you."  
   [Source](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg002.perseus-eng1:20)
 
     > When someone triggers your anger, it's important to acknowledge that this reaction originates within your own cognitive and emotional framework. Thus it becomes clear that your understanding, as well as your intellectual weaknesses, condition your ability to respond calmly and rationally.
 
-- _Discourses_, Book 2, Chapter 18 
+- _Discourses_, Book 2, Chapter 18  
   "Any person capable of angering you becomes your master; he can anger you only when you permit yourself to be disturbed by him."  
   [Source](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg001.perseus-eng1:2)
 
