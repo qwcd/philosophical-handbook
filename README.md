@@ -38,7 +38,8 @@
 4. [Virtue Ethics](#virtue-ethics)
     1. [Laozi](#laozi)
     2. [Miyamoto Musashi](#miyamoto-musashi)
-    3. [Holy Bible](#bible)
+    3. [Reinhold Niebuhr](#reinhold-niebuhr)
+    4. [Holy Bible](#bible)
 5. [Index](#index)
 
 ## <a name="stoicism"></a> Stoicism
@@ -94,7 +95,7 @@
   [Source](https://archive.org/details/beyondgoodevilpr1909niet)
 
 #### <a name="viktor-frankl"></a> Viktor E. Frankl
-- _Man’s Search for Meaning_, 2, Page 112  
+- _Man’s Search for Meaning_, 1946, Page 112  
   "When we are no longer able to change a situation, we are challenged to change ourselves."  
   [Source](https://archive.org/details/manssearchformea0000fran)
 
@@ -161,6 +162,12 @@
   [Source](https://archive.org/details/bookoffiverings0000miya)
 
     > Our body and muscles are tools that can be cultivated through discipline and effort, much like sharpening the mind with knowledge and practice. What lies beyond the palms of one’s hands must not pervert one’s self, for the sole dominion we possess is over our own being.
+
+#### <a name="reinhold-niebuhr"></a> Reinhold Niebuhr
+
+- _The Serenity Prayer_, 1942  
+  "God, give us grace to accept with serenity the things that cannot be changed, courage to change the things which should be changed, and the wisdom to distinguish the one from the other."  
+  [Source](https://en.wikiquote.org/wiki/Reinhold_Niebuhr#The_Serenity_Prayer_(c._1942))
 
 #### <a name="bible"></a> Holy Bible 
 - _New International Version_, Matthew, 7:1-2  

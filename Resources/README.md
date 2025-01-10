@@ -38,7 +38,8 @@
 4. [Éthique de la vertu](#virtue-ethics)
     1. [Laozi](#laozi)
     2. [Miyamoto Musashi](#miyamoto-musashi)
-    3. [Bible Segond](#bible)
+    3. [Reinhold Niebuhr](#reinhold-niebuhr)
+    4. [Holy Bible](#bible)
 5. [Index](#index)
 
 ## <a name="stoicism"></a> Stoïcisme
@@ -94,7 +95,7 @@
   [Source](https://archive.org/details/bnf-bpt6k5526366d)
 
 #### <a name="viktor-frankl"></a> Viktor E. Frankl
-- _Découvrir un sens à sa vie grâce à la logothérapie_, 2, Page 112  
+- _Découvrir un sens à sa vie grâce à la logothérapie_, 1946, Page 112  
   "Quand nous ne sommes plus capables de changer une situation, nous sommes confrontés au défi de nous changer nous-mêmes."  
   [Source](https://archive.org/details/decouvrirunsenss0000fran)
 
@@ -161,6 +162,12 @@
   [Source](https://archive.org/details/bookoffiverings0000miya)
 
     > Notre corps et nos muscles sont des outils que l'on peut développer par la discipline et l'effort, tout comme l'esprit peut être aiguisé par la connaissance et la pratique. Ce qui se trouve au-delà de la paume de ses mains ne doit pas pervertir son être, car la seule domination que nous possédons est sur notre propre être.
+
+#### <a name="reinhold-niebuhr"></a> Reinhold Niebuhr
+
+- _Prière de la Sérénité_, 1942  
+  "Dieu, donne-nous la grâce d'accepter avec sérénité les choses qui ne peuvent être changées, le courage de changer celles qui devraient l'être, et la sagesse de les distinguer l'une de l'autre."  
+  [Source](https://en.wikiquote.org/wiki/Reinhold_Niebuhr#The_Serenity_Prayer_(c._1942))
 
 #### <a name="bible"></a> Bible Segond  
 - _Nouvelle édition de Genève_, Matthieu, 7:1-2  
