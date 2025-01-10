@@ -68,6 +68,10 @@
   "Le plus effroyable des maux, la mort, n'est rien pour nous, étant donné précisément que quand nous sommes, la mort n'est pas présente, et que quand la mort est présente, alors nous ne sommes pas."  
   [Source](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Epicurus,%20LetterMenoeceus.pdf)
 
+- _Sentences vaticanes_, 35  
+  "Ne gâche pas ce que tu as en désirant ce que tu n'as pas ; rappelle-toi que ce que tu as maintenant faisait autrefois partie des choses que tu espérais."  
+  [Source](https://archive.org/details/epicuriepistulae00epicuoft)
+
 #### <a name="marcus-aurelius"></a> Marc Aurèle
 - _Pensées pour moi-même_, Livre 5, Chapitre 16  
   "L'âme prend la couleur de ses pensées. Veille donc à ce que tes pensées soient telles que, si tu es préoccupé par la nature de l'univers, tu deviennes conforme à cette nature ; et si tu es préoccupé par la nature du bien, tu deviennes bon."  
@@ -146,7 +150,6 @@
     > Celui qui se connaît lui-même n'aspire pas à plus que ce que la nature lui a donné ; il ne cherche pas à se hisser au-dessus de sa condition. Celui qui se compare finit par s’effacer dans sa propre misère. L’obsession de se mesurer aux autres érode l’estime de soi, créant un vide que ni la reconnaissance ni les succès extérieurs ne peuvent combler.
 
 #### <a name="miyamoto-musashi"></a> Miyamoto Musashi (宮本 武蔵)
-
 - _La Voie de la marche seule_, 1645, Précepte 4  
   "Pensez avec légèreté de vous-même et profondément du monde."  
   [Source](https://archive.org/details/fritzkeys-dokkodo-musashi)
@@ -164,7 +167,6 @@
     > Notre corps et nos muscles sont des outils que l'on peut développer par la discipline et l'effort, tout comme l'esprit peut être aiguisé par la connaissance et la pratique. Ce qui se trouve au-delà de la paume de ses mains ne doit pas pervertir son être, car la seule domination que nous possédons est sur notre propre être.
 
 #### <a name="reinhold-niebuhr"></a> Reinhold Niebuhr
-
 - _Prière de la Sérénité_, 1942  
   "Dieu, donne-nous la grâce d'accepter avec sérénité les choses qui ne peuvent être changées, le courage de changer celles qui devraient l'être, et la sagesse de les distinguer l'une de l'autre."  
   [Source](https://en.wikiquote.org/wiki/Reinhold_Niebuhr#The_Serenity_Prayer_(c._1942))

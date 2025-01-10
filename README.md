@@ -68,6 +68,10 @@
   "So death, the most terrifying of ills, is nothing to us, since so long as we exist, death is not with us; but when death comes, then we do not exist. It does not concern either the living or the dead, since for the former it is not, and the latter are no more."  
   [Source](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Epicurus,%20LetterMenoeceus.pdf)
 
+- _Vatican Sayings_, 35  
+  "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for."  
+  [Source](https://archive.org/details/epicuriepistulae00epicuoft)
+
 #### <a name="marcus-aurelius"></a> Marcus Aurelius
 - _Meditations_, Book 5, Chapter 16  
   "The soul becomes dyed with the color of its thoughts. So, for instance, if you are constantly contemplating the nature of the universe, you will come to embody its attributes. Similarly, if you are preoccupied with the nature of the good, you will become good. In essence, the character of your soul reflects the nature of your thoughts."  
@@ -146,7 +150,6 @@
     > He who knows himself does not aspire to more than what nature has given him; he does not seek to rise above his condition. He who compares himself eventually fades away in his own misery. The obsession with measuring oneself against others erodes self-esteem, creating a void that neither recognition nor external successes can fill.
 
 #### <a name="miyamoto-musashi"></a> Miyamoto Musashi (宮本 武蔵)
-
 - _The Way of Walking Alone_, 1645, Precept 4  
   "Think lightly of yourself and deeply of the world."  
   [Source](https://archive.org/details/fritzkeys-dokkodo-musashi)
@@ -164,7 +167,6 @@
     > Our body and muscles are tools that can be cultivated through discipline and effort, much like sharpening the mind with knowledge and practice. What lies beyond the palms of one’s hands must not pervert one’s self, for the sole dominion we possess is over our own being.
 
 #### <a name="reinhold-niebuhr"></a> Reinhold Niebuhr
-
 - _The Serenity Prayer_, 1942  
   "God, give us grace to accept with serenity the things that cannot be changed, courage to change the things which should be changed, and the wisdom to distinguish the one from the other."  
   [Source](https://en.wikiquote.org/wiki/Reinhold_Niebuhr#The_Serenity_Prayer_(c._1942))
