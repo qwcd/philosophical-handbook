@@ -49,8 +49,6 @@
   "Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement le responsable de ta colère."  
   [Source](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg002.perseus-eng1:20)
 
-    > Quand quelqu'un suscite votre colère, il est essentiel de reconnaître que cette réaction émane de votre propre cadre cognitif et émotionnel. Il devient alors évident que votre compréhension, ainsi que vos faiblesses intellectuelles, conditionnent votre capacité à répondre de manière calme et rationnelle.
-
 - _Entretiens_, Livre 2, Chapitre 18  
   "Quiconque est capable de vous mettre en colère devient votre maître ; il ne peut vous mettre en colère que lorsque vous vous permettez d'être troublé par lui."  
   [Source](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg001.perseus-eng1:2)
@@ -60,8 +58,6 @@
   Si c’est tout de suite, je vais à la mort.  
   Si c’est dans un moment, pour l’instant, je déjeune, puisque l’heure est venue de le faire, ensuite je mourrai."  
   [Source](http://classics.mit.edu/Epictetus/discourses.1.one.html)
-
-    > Se lamenter sur l'inévitabilité de la mort ne sert qu'à vous distraire inutilement. Au lieu de cela, cultivez votre obsession avec un sentiment de gratitude et de certitude. La mort est une certitude, mais il en va de même pour la possibilité de vivre pleinement jusqu'à ce moment.
 
 #### <a name="epicurus"></a> Épicure
 - _Lettre à Ménécée_, 3  
