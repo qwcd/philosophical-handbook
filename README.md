@@ -23,7 +23,8 @@
     1. [Epictetus](#epictetus)
     2. [Epicurus](#epicurus)
     3. [Marcus Aurelius](#marcus-aurelius)
-    4. [Xenophon](#xenophon)
+    4. [Seneca](#seneca)
+    5. [Xenophon](#xenophon)
 2. [Existentialism](#existentialism)
     1. [Jean-Paul Sartre](#jean-paul-sartre)
     2. [Friedrich Nietzsche](#friedrich-nietzsche)
@@ -72,6 +73,19 @@
 - _Meditations_, Book 5, Chapter 16  
   "The soul becomes dyed with the color of its thoughts. So, for instance, if you are constantly contemplating the nature of the universe, you will come to embody its attributes. Similarly, if you are preoccupied with the nature of the good, you will become good. In essence, the character of your soul reflects the nature of your thoughts."  
   [Source](https://en.wikisource.org/wiki/The_Meditations_of_the_Emperor_Marcus_Antoninus/Book_5)
+
+#### <a name="seneca"></a> Seneca
+- _Moral Letters to Lucilius_, Letter 2, Section 6  
+  "It is not the man who has too little, but the man who craves more, that is poor."  
+  [Source](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2)
+
+  - _The Characters_, La Bruyère, 1688, Page 184  
+    "If he is poor who is full of Desires, nothing can equal the Poverty of the Ambitious and the Covetous."  
+    [Source](https://archive.org/details/worksmonsdelabr00rowegoog) 
+
+- _Moral Letters to Lucilius_, Letter 9, Section 6  
+  "I can show you a philtre, compounded without drugs, herbs, or any witch's incantation: 'If you would be loved, love.'"  
+  [Source](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_9)
 
 #### <a name="xenophon"></a> Xenophon
 - _Memorabilia_, Book 3, Chapter 12  

@@ -23,7 +23,8 @@
     1. [Épictète](#epictetus)
     2. [Épicure](#epicurus)
     3. [Marc Aurèle](#marcus-aurelius)
-    4. [Xénophon](#xenophon)
+    4. [Sénèque](#seneca)
+    5. [Xénophon](#xenophon)
 2. [Existentialisme](#existentialism)
     1. [Jean-Paul Sartre](#jean-paul-sartre)
     2. [Friedrich Nietzsche](#friedrich-nietzsche)
@@ -72,6 +73,19 @@
 - _Pensées pour moi-même_, Livre 5, Chapitre 16  
   "L'âme prend la couleur de ses pensées. Veille donc à ce que tes pensées soient telles que, si tu es préoccupé par la nature de l'univers, tu deviennes conforme à cette nature ; et si tu es préoccupé par la nature du bien, tu deviennes bon."  
   [Source](https://fr.wikisource.org/wiki/Pensées_pour_moi-même/Livre_V)
+
+#### <a name="seneca"></a> Sénèque
+- _Lettres à Lucilius_, Lettre 2, Section 6  
+  "Ce n’est point d’avoir peu, c’est de désirer plus, qu’on est pauvre."  
+  [Source](https://fr.wikisource.org/wiki/Lettres_à_Lucilius/Lettre_2) 
+
+  - _Les Caractères_, La Bruyère, 1688, Page 144  
+    "S’il est vrai que l’on soit pauvre par toutes les choses que l’on désire, l’ambitieux et l’avare languissent dans une extrême pauvreté."  
+    [Source](https://fr.wikisource.org/wiki/Les_Caractères/Édition_Flammarion_1880/Des_Biens_de_fortune) 
+
+- _Lettres à Lucilius_, Lettre 9, Section 6  
+  "Voici une recette pour se faire aimer sans drogues, ni herbe, ni paroles magiques de sorcière. Aimez, on vous aimera."  
+  [Source](https://fr.wikisource.org/wiki/Lettres_à_Lucilius/Lettre_9)
 
 #### <a name="xenophon"></a> Xénophon
 - _Mémorables_, Livre 3, Chapitre 12  
